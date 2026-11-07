@@ -4,7 +4,7 @@
 + こんにちは
 
 # Gitlab
-因为一些不可抗力，我把主阵地转移到GitLab了。欢迎来我的GitLab玩儿，上面有更多我的其他好玩儿的项目，以及对一些其他项目的魔改😋
+因为一些我也不知道什么原因，我的上一个GitHub账号[stephen-zeng](https://github.com/stephen-zeng)被suspended了，故把主阵地转移到GitLab。欢迎来我的GitLab玩儿，上面有更多我的其他好玩儿的项目，以及对一些其他项目的魔改😋
 
 Feel free to drop by my GitLab! You'll find even more fun projects I've been tinkering with, plus some heavily modded versions of other projects! 😋
 
